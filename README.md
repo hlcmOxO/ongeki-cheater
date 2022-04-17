@@ -30,3 +30,4 @@ Telegram account: @hlcmkawaii
 QQ account: 1239244004
 
 所以谁来帮我适配一下这玩意儿和esp32或者promicro的通信（（（
+然后谁来救救我的英语水平啊（（（
